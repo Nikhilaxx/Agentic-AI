@@ -1,3 +1,2 @@
-flask
-pymavlink
-dronekit
+google-cloud-storage
+google-cloud-aiplatform
